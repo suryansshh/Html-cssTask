@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+.base {
+    margin: auto;
+    width: 500px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 5%;
+    padding-bottom: 5%; 
+    background-color: #8b1347;
+}
+
+.main {
+    margin: auto;
+    padding: 30px;
+    background-color: #651739;
+}
+
+.table-main {
+    color: white;
+}
+
+.table-main tr{
+    margin: 10px!important;
+}
+
+.table-main input {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+}
+
+.register {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 3px;
+}
+
+textarea {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+}
+
+select {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+
